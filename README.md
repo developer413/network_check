@@ -1,6 +1,6 @@
 # network_bloc
 
-sample network check application
+Flutter app that detects when there is a change in network state by using flutter_bloc pattern.
 
 ## Getting Started
 
